@@ -1,4 +1,4 @@
-# Slock.it smart contracts
+# Core smart contracts
 
 ## What is it?
 The Ethereum solidity smart contracts for the Core project
